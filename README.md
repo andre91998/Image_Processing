@@ -1,16 +1,11 @@
-# EA979
-Conjunto de funções utilizadas no curso EA979 - Intr. Computação Gráfica e Processamento de Imagem
+## Install:
 
-1º semestre 2020
-
-## Instalação
-
-- faça o clone do repositório
-- abra o jupyter e execute o notebook ia979/src/GenerateLibrary
+- Open Jupyter and execute src/GenerateLibrary notebook
 
 ## Dependência:
     - numpy
     - matplotlib
+    - pillow
     - jupyter and jupyter extentions
 
 ## Lessons
