@@ -2,7 +2,7 @@
 
 - Open Jupyter and execute src/GenerateLibrary notebook
 
-## Dependência:
+## Dependencies:
     - numpy
     - matplotlib
     - pillow
